@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+
+# Variables de entorno: nunca subir credenciales reales
+.env
+.env.local
+.env.*.local
+
+# Secretos de Supabase (nunca deben entrar al repositorio)
+*.service_role*
+
+# Artefactos de TypeScript
+*.tsbuildinfo

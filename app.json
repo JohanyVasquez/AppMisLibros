@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Mis Libros",
+    "slug": "mis-libros-poo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "mislibros",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
